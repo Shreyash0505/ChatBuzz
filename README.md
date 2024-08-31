@@ -6,7 +6,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/shreash0505/ChatBuzz.git
+git clone https://github.com/shreyash0505/ChatBuzz.git
 
 ```
 
