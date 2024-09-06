@@ -62,7 +62,7 @@ python manage.py runserver
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Home Page
 </p>
 <img src="pics/feed_home.png">
 </td> 
@@ -70,7 +70,7 @@ python manage.py runserver
 <td width="33%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Room Preview
 </p>
 <img src="pics/room.png">
 </td>
@@ -78,9 +78,9 @@ python manage.py runserver
 <td width="33%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Room Create
 </p>
-<img src="pics/room.png">  
+<img src="pics/createroom.png">  
 </td>
 </tr>
 
