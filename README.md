@@ -84,6 +84,8 @@ python manage.py runserver
 </td>
 </tr>
 
+<br>
+
 <tr>
 <td width="33%">      
 &nbsp;
@@ -107,7 +109,7 @@ python manage.py runserver
 <p align="center">
   User Profile
 </p>
-<img src="pics/userprofile.png">  
+<img src="pics/user_profile.png">  
 </td> 
 </tr>
 
