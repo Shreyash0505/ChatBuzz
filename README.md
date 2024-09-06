@@ -54,9 +54,11 @@ python manage.py runserver
 
 ### App Preview :
 
-<table width="150%" > 
+<table width="100%" >
+  
 <tr>
-<td width="50%">      
+  
+<td width="33%">      
 &nbsp; 
 <br>
 <p align="center">
@@ -64,14 +66,16 @@ python manage.py runserver
 </p>
 <img src="pics/feed_home.png">
 </td> 
-<td width="50%">
+
+<td width="33%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
 <img src="pics/room.png">
 </td>
-  <td width="50%">
+
+<td width="33%">
 <br>
 <p align="center">
   Room Conversation Preview
@@ -79,6 +83,7 @@ python manage.py runserver
 <img src="pics/room.png">  
 </td>
 </tr>
+
 <tr>
   <td width="50%">
 <br>
