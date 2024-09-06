@@ -95,7 +95,7 @@ python manage.py runserver
 </tr>
 
 <tr>
-<td width="34%">
+<td width="50%">
 <br>
 <p align="center">
   Register Page
@@ -103,7 +103,7 @@ python manage.py runserver
 <img src="pics/register.png">  
 </td>
 
-<td width="33%">
+<td width="50%">
 <br>
 <p align="center">
   User Profile
@@ -111,6 +111,26 @@ python manage.py runserver
 <img src="pics/user_profile.png">  
 </td> 
 </tr>
+
+<tr>
+<td width="50%">
+<br>
+<p align="center">
+  Participant Profile
+</p>
+<img src="pics/profileuser.png">  
+</td> 
+
+<td width="50%">
+<br>
+<p align="center">
+  Topics Page
+</p>
+<img src="pics/browsetopics.png">  
+</td> 
+  
+</tr>
+
 
 </table>
 
