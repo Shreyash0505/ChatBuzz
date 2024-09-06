@@ -78,6 +78,8 @@ python manage.py runserver
 </p>
 <img src="pics/room.png">  
 </td>
+</tr>
+<tr>
   <td width="50%">
 <br>
 <p align="center">
@@ -106,6 +108,7 @@ python manage.py runserver
 </p>
 <img src="pics/room.png">  
 </td>
+</tr>
 </table>
 
 
