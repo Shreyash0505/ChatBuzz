@@ -54,7 +54,7 @@ python manage.py runserver
 
 ### App Preview :
 
-<table width="100%" > 
+<table width="150%" > 
 <tr>
 <td width="50%">      
 &nbsp; 
