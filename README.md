@@ -75,7 +75,7 @@ python manage.py runserver
 <img src="pics/room.png">
 </td>
 
-<td width="33%">
+<td width="34%">
 <br>
 <p align="center">
   Room Create
