@@ -56,9 +56,8 @@ python manage.py runserver
 
 <table width="100%" >
   
-<tr>
-  
-<td width="33%">      
+<tr>  
+<td width="50%">      
 &nbsp; 
 <br>
 <p align="center">
@@ -67,27 +66,25 @@ python manage.py runserver
 <img src="pics/feed_home.png">
 </td> 
 
-<td width="33%">
+<td width="50%">
 <br>
 <p align="center">
   Room Preview
 </p>
 <img src="pics/room.png">
 </td>
+</tr>
 
-<td width="34%">
+<tr>
+<td width="50%">
 <br>
 <p align="center">
   Room Create
 </p>
 <img src="pics/createroom.png">  
 </td>
-</tr>
-
-<br>
-
-<tr>
-<td width="33%">      
+  
+<td width="50%">      
 &nbsp;
 <br>
 <p align="center">
@@ -95,7 +92,9 @@ python manage.py runserver
 </p>
 <img src="pics/login.png">  
 </td>
+</tr>
 
+<tr>
 <td width="34%">
 <br>
 <p align="center">
