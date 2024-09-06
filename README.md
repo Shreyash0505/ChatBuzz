@@ -84,6 +84,33 @@ python manage.py runserver
 </td>
 </tr>
 
+<tr>
+<td width="33%">      
+&nbsp;
+<br>
+<p align="center">
+  Login Page
+</p>
+<img src="pics/login.png">  
+</td>
+
+<td width="34%">
+<br>
+<p align="center">
+  Register Page
+</p>
+<img src="pics/register.png">  
+</td>
+
+<td width="33%">
+<br>
+<p align="center">
+  User Profile
+</p>
+<img src="pics/userprofile.png">  
+</td> 
+</tr>
+
 </table>
 
 
