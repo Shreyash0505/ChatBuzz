@@ -69,6 +69,41 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
+<img src="pics/room.png">
+</td>
+  <td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="pics/room.png">  
+</td>
+  <td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="pics/room.png">  
+</td>
+  <td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="pics/room.png">  
+</td>
+  <td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="pics/room.png">  
+</td>
+  <td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
 <img src="pics/room.png">  
 </td>
 </table>
